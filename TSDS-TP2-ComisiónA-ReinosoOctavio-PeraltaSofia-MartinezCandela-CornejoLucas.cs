@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tp2_programacion
+namespace TSDS-TP2-ComisiónA-ReinosoOctavio-PeraltaSofia-MartinezCandela-CornejoLucas
 {
     internal class Program
     {//variables del menu de usuario
